@@ -1,6 +1,5 @@
-.env
-*.png
-Graphs/
 __pycache__
-dd/
-SkyblockToolbox/
+Graphs/
+SkyGraphs/
+.env
+QuickRun.bat

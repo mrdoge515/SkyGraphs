@@ -2,8 +2,10 @@
 ## About the program
 It automatically gets data about your collection/skill experience from Hypixel API, displays it in the console and makes graphs.
 ## To-do
-- [ ] Threading (tracking multiple resource at the same time)
-- [ ] Add modules to all resources (I will do it as I go with my ironman profile, so all resources will be done in +- a month from update of readme)
+- [x] Threading (tracking multiple resource at the same time)
+- [x] ~~Add modules to all resources (I will do it as I go with my ironman profile, so all resources will be done in +- a month from update of readme)~~ Changed it so you can just pass resource's name to track it.
+- [ ] Interactive selection menu
+- [ ] Fix buggy graphs (sometimes they don't draw properly)
 ## How to install
 ### Requirements
 - Python 3
